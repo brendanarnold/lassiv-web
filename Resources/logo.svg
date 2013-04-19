@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg4327"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4329" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="602.55384"
+     inkscape:cy="811.84315"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4332">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:export-ydpi="89.999985"
+       inkscape:export-xdpi="89.999985"
+       inkscape:export-filename="C:\Users\brendan\Documents\Code\WindowsPhone\Pocketailor\Resources\splash.png"
+       style="fill:#000000;stroke:none;display:inline"
+       transform="matrix(1.1074401,0,0,1.1408209,43.321066,-859.09878)"
+       id="g10504">
+      <g
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4'"
+         id="g10506"
+         transform="translate(116.05082,400.53572)">
+        <path
+           style="fill:#000000;stroke:none"
+           d="m 209.00289,471.38278 c -0.82135,-0.0746 -1.67467,-0.11729 -2.55997,-0.128 -3.64205,0.0479 -7.43895,0.0931 -10.94121,0.72686 -3.01768,0.54605 -8.58471,1.26341 -10.80453,3.77632 1.23622,3.36237 6.09758,5.3179 8.39412,5.26608 2.96445,-7.72109 4.86549,-7.35654 6.23654,-6.17783 4.32055,3.71445 0.65116,37.59292 0.65116,44.40795 l 9.72788,0 17.79177,-47.67939 -4.47994,0 -13.43983,39.1675 z"
+           id="path10508"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsccscccccc" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4'"
+         x="186.69893"
+         y="920.48822"
+         id="text10510"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan10512"
+           x="186.69893"
+           y="920.48822">Lassi</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 431.71429,124.07647 0,81.42857"
+       id="path4350"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:21.18622589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       x="439.48306"
+       y="188.33112"
+       id="text4352"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4354"
+         x="439.48306"
+         y="188.33112"
+         style="font-size:35.31037521px">TECHNOLOGIES</tspan></text>
+  </g>
+</svg>
