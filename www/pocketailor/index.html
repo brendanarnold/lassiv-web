@@ -7,56 +7,210 @@
     
     </script>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Bootstrap -->
-    <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" href="css/reset.css" type="text/css"
+    media="screen" charset="utf-8" />
+
+    <link rel="stylesheet" href="css/main.css" type="text/css" media="screen" charset="utf-8">
 
     <style type="text/css">
-body {
-    font-family: Segoe UI, Verdana, Helvectica, sans-serif;
-    margin: 5em;
+
+
+div.phone-shell {
+  background-image: url('css/lumia800.png');
+  width: 315px;
+  height: 548px;
+  padding-top: 50px;
 }
 
-h1 {
-  margin-bottom: 1em;
+div.phone-screen {
+  margin: 30px 0px 0px 37px;
+  width: 237px;
 }
+
+.flavour_copy {
+    width: auto;
+    font-size: 2.6em;
+    font-family: Segoe UI Semilight;
+    color: white;
+    padding: 20px 30px 20px 30px;
+}
+
+@media screen and (max-device-width: 480px) {
+
+
+  #brand_img {
+    visibility: hidden;
+  }  
+  
+  .flavour_copy {
+    font-size: 2em;
+  }
+
+  body {
+    margin: 2%;
+  }
+
+}
+
+  </style>
+
     
-h1, h2, h3, h4 {
-    font-weight: normal;
-    /* font-family: Segoe UI Semilight; */
-}
-
-p, li, dl {
-    font-size: 1.2em;
-}
-
-dt {
-  font-weight: normal;
-}
-    
-    </style>
-
-    <script src="../bootstrap/js/bootstrap.min.js"></script>
-
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
 
   </head>
   <body>
 
-    <h1 id="pagetitle">Pocketailor</h1>
+    <h1 id="pagetitle">
+      <a href="../index.html">
+        <img src="images/pocketailor_title.png" alt="Pocketailor from
+        Lassiv software" />
+      </a>
+    </h1>
 
-    <h2>Facebook/Twitter/Uservoice</h2>
+    <div style="
+      background: #8CBE29;
+      margin-bottom: 30px;
+      ">
+      <div 
+        id="brand_img"
+        style="
+        max-width: 25%;
+        width: 350px;
+        float: right">
+        <img style=" "
+          src="images/brand_img.png" />
+      </div>
+      <div class="flavour_copy" >
+        Enter your measurements to get the right clothes size for brands worldwide
+      </div>
+      <!-- Hack to get the container to actually contain the floats -->
+      <div class="clearer">&nbsp;</div>
+    </div>
 
-      <ul>
-        <li><a href="http://lassiv.uservoice.com/">Lassiv Uservoice</a></li>
-        <li><a href="http://facebook.com/Pocketailor">Pocketailor on
-        Facebook</a></li>
-        <li><a href="http://www.twitter.com/Lassivtech">Lassiv at
-        Twitter</a></li>
-      </ul>
+    <h2>DOWNLOAD</h2>
 
-    <h2>Screenshots</h2>
+    <div id="qrpopup" style="
+      margin-bottom: 30px;   
+      background-color: black;
+    ">
+        <div style="float: right;
+          max-width: 100%;
+          padding-top: 10px;">
+        <a
+        href="http://windowsphone.com/s?appId=a37a641a-11e8-40fb-bddc-647851cf1719">
+          <img src="images/wpstore_btn.png" alt="download via the web browser" />
+        </a>
+        </div>
+        <div class="flavour_copy" 
+          style="
+          color: white;
+          ">Free on Windows Phone 7.1 and above
+        </div>
+      <!-- Hack to get the container to actually contain the floats -->
+      <div class="clearer">&nbsp;</div>
+    </div>
 
-    <h2>Download links/QR code</h2>
+    <h2>FEATURES</h2>
+
+    <p>Pocketailor ...</p>
+    <ul class="normal"
+     style="
+      list-style-type: disc;
+      list-style-position: outside;
+      ">
+      <li>is easy to use</li>
+      <li>is free</li>
+      <li>features manufacturer supplied size charts for men and women
+      for more than 150 clothing brands from around the world</li>
+      <li>lets you store sizes for yourself and loved ones in a safe,
+      discreet way</li>
+      <li>lets you to share your clothes size experience with
+      others</li>
+      <li>means less returns and less time in the store fitting
+      rooms</li>
+    </ul>
+
+    <div class="phone-shell"
+      style="
+        margin-bottom: 30px;
+        margin: 0 auto;
+      ">
+      <div class="cycle-slideshow phone-screen"
+          data-cycle-fx="scrollHorz"
+          height="395px">
+        <img src="images/screen/s1.jpg" />
+        <img src="images/screen/s2.jpg" />
+        <img src="images/screen/s3.jpg" />
+        <img src="images/screen/s4.jpg" />
+        <img src="images/screen/s5.jpg" />
+      </div>
+    </div>
+
+
+    <h2>SOCIAL</h2>
+
+    <p style="
+      margin-bottom: 10px;
+    ">For announcements and updates see our Facebook page and Twitter
+    feed.</p>
+
+    <div style="background-color: #e68e00;">
+      <a href="http://lassiv.uservoice.com/">
+        <img src="images/uservoice_btn.png" alt="Feeback at UserVoice" />
+      </a>
+    </div>
+    <div style="background-color: #3b5998">
+      <a href="http://facebook.com/Pocketailor">
+        <img src="images/facebook_btn.png" alt="Like on Facebook" />
+      </a>
+    </div>
+    <div style="
+      background-color: #00aced;
+      margin-bottom: 30px;">
+      <a href="http://www.twitter.com/Lassivtech">
+        <img src="images/twitter_btn.png" alt="Follow on Twitter" />
+      </a>
+    </div>
+
+
+    <h2>ABOUT</h2>
+
+    <p style="
+      margin-bottom: 10px;
+    ">Contact the author at <a
+    href="mailto:pocketailor@lassiv.com">pocketailor@lassiv.com</a></p>
+
+    <div style="
+      background-color: #8CBE29;
+    ">
+      <a href="legal.html">
+        <img src="images/legal_btn.png" alt="Legal and thanks" />
+      </a>
+    </div>
+
+
+    <!-- <div style=" -->
+    <!--   margin-top: 30px; -->
+    <!--   border-top: 1px solid black; -->
+    <!-- "> -->
+    <!--   <div style=" -->
+    <!--     color="#333333" -->
+    <!--     float: right; -->
+    <!--   "> -->
+    <!--     Copyright Brendan Arnold 2013 -->
+    <!--   </div>  -->
+    <!--    -->
+    <!--   <div style=" -->
+    <!--     color="#333333" -->
+    <!--     float: left; -->
+    <!--   "> -->
+    <!--     Contact the author -->
+    <!--   </div>  -->
+    <!-- </div> -->
+
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script src="http://malsup.github.com/jquery.cycle2.js"></script>
   
   </body>
 </html>

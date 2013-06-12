@@ -1,0 +1,33 @@
+
+body {
+    font-family: Segoe UI, Verdana, Helvectica, sans-serif;
+    margin: 5%;
+    font-size: 100%;
+}
+
+h1 {
+    margin-bottom: 1em;
+}
+    
+h2, h3, h4 {
+    font-size: 1.5em;
+}
+
+img {
+    max-width: 100%;
+}
+
+div.clearer {
+  clear: both;
+  line-height: 0px;
+  height: 0px;
+}
+
+ul.normal {
+  list-style-type: disc;
+  list-style-position: outside;
+}
+
+ul.normal li {
+  margin-left: 25px;
+}
